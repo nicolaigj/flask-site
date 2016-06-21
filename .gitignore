@@ -1,3 +1,4 @@
 flask-virtualenv
 *.pyc
-
+*.db
+db_repository
